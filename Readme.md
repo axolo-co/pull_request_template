@@ -4,13 +4,13 @@
 Here are 7 examples of pull requests template we made and found on the web: 
 
 Find more on <a
-            href=" https://github.com/stevemao/github-issue-templates"
+            href="https://github.com/stevemao/github-issue-templates"
             rel="noopener noreferrer"
             target="_blank">SteveLao GitHub issue templates</a> and <a href="https://github.com/devspace/awesome-github-templates" rel="noopener noreferrer" target="_blank">Awesome GitHub templates</a>
 
 
 
-Example 1 simple Pull request template:
+## Example 1 simple Pull request template:
 ```
 ## What does this PR do?
 
@@ -24,7 +24,7 @@ Example 1 simple Pull request template:
 
 ```
 
-Example 2
+## Example 2
 
 ```
 # Description
@@ -68,7 +68,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ```
 
-Example 3, GitHub issue template for bugs:
+## Example 3, GitHub issue template for bugs:
 
 ```
 THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONLY**. NO NEW FEATURES ACCEPTED!
@@ -97,7 +97,7 @@ THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONL
 
 ```
 
-Example 4: Checklist GitHub issue template
+## Example 4: Checklist GitHub issue template
 
 ```
 ### All Submissions:
@@ -120,7 +120,7 @@ Example 4: Checklist GitHub issue template
 
 ```
 
-Example 5: Check list and questions GitHub pull request template: 
+## Example 5: Check list and questions GitHub pull request template: 
 
 ```
 * **Please check if the PR fulfills these requirements**
@@ -148,7 +148,7 @@ Example 5: Check list and questions GitHub pull request template:
 * **Other information**:
 ```
 
-Example 6: Dead Simple GitHub pull request template
+## Example 6: Dead Simple GitHub pull request template
 
 ```
 Fixes #
@@ -160,7 +160,7 @@ Fixes #
   -
 ```
 
-Example 7: No Duplicate for JS project GitHub pull requests template:
+## Example 7: No Duplicate for JS project GitHub pull requests template:
 
 ```
 ## Pull Request template
