@@ -1,7 +1,7 @@
-7 GitHub pull request template example
+7 GitHub pull request template examples
 
 
-Here are 7 examples of pull requests template we made and found on the web: 
+Here are 7 examples of pull request template we made and found on the web: 
 
 Find more on <a
             href="https://github.com/stevemao/github-issue-templates"
@@ -10,7 +10,7 @@ Find more on <a
 
 
 
-## Example 1: simple Pull request template:
+## Example 1: Simple Pull request template:
 ```
 ## What does this PR do?
 
@@ -68,7 +68,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 ```
 
-## Example 3:, GitHub issue template for bugs:
+## Example 3: GitHub issue template for bugs:
 
 ```
 THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONLY**. NO NEW FEATURES ACCEPTED!
@@ -97,7 +97,7 @@ THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONL
 
 ```
 
-## Example 4:: Checklist GitHub issue template
+## Example 4: Checklist GitHub issue template
 
 ```
 ### All Submissions:
@@ -120,7 +120,7 @@ THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONL
 
 ```
 
-## Example 5:: Check list and questions GitHub pull request template: 
+## Example 5: Checklist and questions GitHub pull request template: 
 
 ```
 * **Please check if the PR fulfills these requirements**
@@ -148,7 +148,7 @@ THIS PROJECT IS IN MAINTENANCE MODE. We accept pull-requests for Bug Fixes **ONL
 * **Other information**:
 ```
 
-## Example 6:: Dead Simple GitHub pull request template
+## Example 6: Dead simple GitHub pull request template
 
 ```
 Fixes #
@@ -160,7 +160,7 @@ Fixes #
   -
 ```
 
-## Example 7:: No Duplicate for JS project GitHub pull requests template:
+## Example 7: No Duplicate for JS project GitHub pull requests template:
 
 ```
 ## Pull Request template
